@@ -7,3 +7,4 @@
 ## Free Heroku Alternatives
 
 - [cyclic.sh](https://www.cyclic.sh/) - A *paas* advertised as an alternative to Heroku. With the free tier you can deploy up to 3 full stack apps from a Github repo, and receive 1024 MB of ram along with 1 GB of storage. Apps don't turn off due to inactivity by default, and you receive a free cyclic.app subdomain.
+- [fly.io](https://fly.io) - Fly.io is a cloud platform that allows developers to deploy and run their applications globally. It focuses on providing low-latency and high-performance infrastructure by using a distributed network of servers around the world. Developers can deploy their applications to Fly.io using a variety of programming languages and frameworks, such as Ruby, Python, Node.js, and Go.
